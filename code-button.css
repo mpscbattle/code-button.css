@@ -7,7 +7,7 @@ body {
 
 .container {
   width: 100%;
-  padding: 10px;
+  padding: 8px;
   box-sizing: border-box;
 }
 
@@ -68,8 +68,8 @@ body {
   border: 1px solid #333;
   padding: 2px 10px;
   border-radius: 16px;
-  font-weight: 500;
-  font-size: 12px;
+  font-weight: 800;
+  font-size: 13px;
   text-decoration: none;
   white-space: nowrap;
   transition: 0.3s;
@@ -83,8 +83,9 @@ body {
 }
 
 .start-btn:hover {
-  background-color: #ff9688;
+  background-color: #009999;
   color: white;
+  border: none;
 }
 
 @media screen and (max-width: 480px) {
